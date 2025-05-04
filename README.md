@@ -9,4 +9,4 @@ It also brings some quality of life features for a smoother experience.
 (Not) Crazy Cinematic is a modpack hosted on the modrinth website and can be found [here](https://modrinth.com/project/(not)-crazy-cinematic). To install (Not) Crazy Cinematic, visit modrinths [documentation](https://docs.modrinth.com/docs/modpacks/playing_modpacks/) which provides instructions on using [Modrinth Launcher](https://modrinth.com/app), [ATLauncher](https://atlauncher.com/about), [MultiMC](https://multimc.org/), and [Prism Launcher](https://prismlauncher.org/).
 
 ### License
-(Not) Crazy Cinematic is licensed under [MIT]()
+(Not) Crazy Cinematic is licensed under [MIT](LICENSE.md)
