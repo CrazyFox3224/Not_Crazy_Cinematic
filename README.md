@@ -1,1 +1,1 @@
-# -Not-Crazy-Cinematic
+# Not Crazy Cinematic
