@@ -202,8 +202,8 @@ It also brings some quality of life features for a smoother experience.
   </ul>
   <h3>My options are directely in the modpack, but here are the links to them too!</h3>
   <ul>
-    <li><a href"https://pastebin.com/VgD9MbSh">BSL Custom Settings</a></li>
-    <li><a href"https://pastebin.com/HUV7F42j">Complementary Custom Settings</a></li>
+    <li><a href="https://pastebin.com/VgD9MbSh">BSL Custom Settings</a></li>
+    <li><a href="https://pastebin.com/HUV7F42j">Complementary Custom Settings</a></li>
   </ul>
 </details>
 
