@@ -1,4 +1,4 @@
-## Currently making a brand new modlist, therefor it cannot be dowbloaded at the moment. It'll be online in a couple of days. Thank you for the waiting.
+## Currently making a brand new modlist, therefor it cannot be downloaded at the moment. It'll be online in a couple of days. Thank you for the waiting.
 
 ## What is (Not) Crazy Cinematic and who's it for?
 
